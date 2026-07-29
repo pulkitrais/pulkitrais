@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pulkitrais&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/pulkitrais?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
@@ -30,7 +29,6 @@
 | [soc-agent](https://github.com/pulkitrais/soc-agent) | Agent tooling for SOC workflows |
 | [socagent](https://github.com/pulkitrais/socagent) | Additional SOC automation tooling |
 | [socweb](https://github.com/pulkitrais/socweb) | Web interface for SOC workflows |
-| [soc-notes](https://github.com/pulkitrais/soc-notes) | Notes & interview prep for SOC / security analysis |
 | [DeepGuard-Lens](https://github.com/pulkitrais/DeepGuard-Lens) | Security-focused monitoring project |
 
 ## 📊 GitHub Stats
