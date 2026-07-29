@@ -14,7 +14,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pulkitrais/pulkitrais/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/pulkitrais/pulkitrais/output/github-contribution-grid-snake.svg" alt="" />
 </p>
 
 > Animated by a GitHub Actions workflow that "eats" through my contribution graph daily — see `snake.yml` below.
@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pulkitrais&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitrais&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pulkitrais&show_icons=true&theme=default&hide_border=true&count_private=true" alt="" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitrais&layout=compact&hide_border=true" alt="" />
 </p>
 
 ## 🧰 Tools & Tech
