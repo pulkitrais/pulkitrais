@@ -11,13 +11,9 @@
   <img src="https://img.shields.io/github/followers/pulkitrais?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
-### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/pulkitrais/pulkitrais/output/github-contribution-grid-snake.svg" alt="" />
 </p>
-
-> Animated by a GitHub Actions workflow that "eats" through my contribution graph daily — see `snake.yml` below.
 
 ## 🛡️ What I focus on
 
