@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="100%" height="auto">
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, "SF Mono", "Geist Mono", Menlo, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "General Sans", Inter, Helvetica, Arial, sans-serif; }
+      .pill-bg { fill: #161922; stroke: #2a2e3d; stroke-width: 1; rx: 6; }
+      .pill-txt { fill: #c9d1d9; font-size: 11px; font-weight: 500; }
+    </style>
+  </defs>
+
+  <!-- Container -->
+  <rect x="0.5" y="0.5" width="839" height="199" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <circle cx="24" cy="20" r="5" fill="#ff5f56" opacity="0.85"/>
+  <circle cx="40" cy="20" r="5" fill="#febc2e" opacity="0.85"/>
+  <circle cx="56" cy="20" r="5" fill="#28c840" opacity="0.85"/>
+  <text x="420" y="24" text-anchor="middle" fill="#6e7681" class="mono" font-size="11">pulkit rai · security operations &amp; automation</text>
+  <line x1="0" y1="38" x2="840" y2="38" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Main heading -->
+  <text x="32" y="82" fill="#f0f6fc" class="sans" font-size="26" font-weight="600" letter-spacing="-0.02em">pulkit rai</text>
+  <text x="32" y="110" fill="#8b949e" class="sans" font-size="13.5" font-weight="400">cloud security engineer · building sentinel soar playbooks, ioc enrichment pipelines, and triage tooling.</text>
+
+  <!-- Status indicator -->
+  <circle cx="780" cy="78" r="4" fill="#3fb950"/>
+  <text x="770" y="82" text-anchor="end" fill="#7ee787" class="mono" font-size="11">active</text>
+
+  <!-- Pills -->
+  <g transform="translate(32, 138)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="112" height="24" class="pill-bg"/>
+    <text x="56" y="16" text-anchor="middle" class="mono pill-txt">azure sentinel</text>
+
+    <!-- Pill 2 -->
+    <rect x="120" y="0" width="124" height="24" class="pill-bg"/>
+    <text x="182" y="16" text-anchor="middle" class="mono pill-txt">logic apps soar</text>
+
+    <!-- Pill 3 -->
+    <rect x="252" y="0" width="112" height="24" class="pill-bg"/>
+    <text x="308" y="16" text-anchor="middle" class="mono pill-txt">ioc enrichment</text>
+
+    <!-- Pill 4 -->
+    <rect x="372" y="0" width="102" height="24" class="pill-bg"/>
+    <text x="423" y="16" text-anchor="middle" class="mono pill-txt">kql detection</text>
+
+    <!-- Pill 5 -->
+    <rect x="482" y="0" width="88" height="24" class="pill-bg"/>
+    <text x="526" y="16" text-anchor="middle" class="mono pill-txt">python</text>
+
+    <!-- Pill 6 -->
+    <rect x="578" y="0" width="94" height="24" class="pill-bg"/>
+    <text x="625" y="16" text-anchor="middle" class="mono pill-txt">noida, in</text>
+  </g>
+</svg>
