@@ -21,4 +21,4 @@ cloud security and soc automation engineer based in noida, india. i build micros
 - **detection & dev** · kql, python, bash, json
 
 ### connect.
-[portfolio](https://pulkitrai.tech) · [github](https://github.com/pulkitrais) · [email](mailto:pulkitonwork@gmail.com)
+[github](https://github.com/pulkitrais) · [email](mailto:pulkitonwork@gmail.com)
